@@ -1,4 +1,4 @@
 # Dashtoon-Assignment
 ![Style Image](image-from-rawpixel-id-537404-jpeg.jpeg)
-![Generated Image](Generated.png)
+![Generated Image](Generated1.png)
 
