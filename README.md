@@ -1,7 +1,4 @@
 # Dashtoon-Assignment
-Certainly! Below is a template for a README file for your Neural Style Transfer project implemented using PyTorch and Pillow, with references to d2l.ai and using VGG models. You can adjust the content to match the specific details and features of your project.
-
----
 
 # Neural Style Transfer with PyTorch
 
